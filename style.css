@@ -4,6 +4,9 @@
     margin: 0px;
     padding: 0px;
 }
+:root {
+         color-scheme: light only;
+       }
 body{
 	margin: 0px ;
 	padding: 0px;
